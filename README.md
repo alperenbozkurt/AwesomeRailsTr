@@ -17,6 +17,7 @@
 | [Simple Command](https://github.com/nebulab/simple_command) | Çeşitli komutlar oluşturarak kod kalabalığını azaltır veya dağıtır. | Bağımsız |
 | [Validates Timeliness](https://github.com/adzap/validates_timeliness) | Tarih ile ilgili çeşitli doğrulamalar koyarak işi kolaylaştırır. | Bağımsız |
 | [CarierWave](https://github.com/carrierwaveuploader/carrierwave) | Dosya yükleme ilgili işlemlerinizi kolaylaştırır. | Bağımsız |
+| [i18n-tasks](https://github.com/glebm/i18n-tasks) | Eksik çeviri keywordlerini bulmaya yarar ve şablon oluşturur. | Geliştirme |
 
 | Makale | Açıklama |
 | ------ | -------- |
